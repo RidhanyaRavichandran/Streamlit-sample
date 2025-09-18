@@ -11,5 +11,5 @@ Original file is located at
 
 import streamlit as st
 st.title('Hello! Ridhanya here ')
-st.write('This is my first try in stremlit')
+st.write('This is my first try in streamlit')
 
